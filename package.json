@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"babel spider -d lib"
+    "build": "babel spider -d lib"
   },
   "author": "Albert",
   "license": "ISC",
