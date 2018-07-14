@@ -11,7 +11,7 @@ app.use(express.static(publicPath));
 app.listen(8888,function(err){
 	if(err){
 		console.log(err);
-		return;
+		return;;
 	}
 	console.log('listening at: http://localhost:8888');
 })
